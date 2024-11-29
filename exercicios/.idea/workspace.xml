@@ -5,29 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e21bb7bd-7705-44e0-8fb1-f0da39ebc31c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/AreaCircunferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/Import.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/Inferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/NotacaoPonto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/PrimeiroPrograma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/PrimitivoVsObjeto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/Temperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/TipoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/TiposPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/Wrappers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/ConversaoNumeroString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/ConversaoStringNumero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/DesafioCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/DesafioConversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/TipoStringEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Aritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Atribuicao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/DesafioAritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/DesafioLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Logicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Relacionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Ternario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Unarios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,8 +40,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2oZFs6oqk2a5GSCKEQq4mkbPjqu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,12 +53,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.exercicios [:curso.java.fundamentos.AreaCircunferencia.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.ConversaoNumeroString.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.ConversaoStringNumero.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.ConversaoTipoPrimitivoNumerico.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.DesafioCalculadora.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.DesafioConversao.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.TipoStringEquals.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.Aritmeticos.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.Atribuicao.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.DesafioAritmeticos.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.DesafioLogicos.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.Logicos.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.Relacionais.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.Ternario.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.operadores.Unarios.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/yasmim/Workspace/Courses/course-java/exercicios"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
