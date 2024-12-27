@@ -5,21 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e21bb7bd-7705-44e0-8fb1-f0da39ebc31c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/ConversaoNumeroString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/ConversaoStringNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/ConversaoTipoPrimitivoNumerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/DesafioCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/DesafioConversao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/TipoStringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Aritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Atribuicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/DesafioAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/DesafioLogicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Logicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Relacionais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Ternario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/operadores/Unarios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +53,12 @@
     "Gradle.exercicios [:curso.java.fundamentos.DesafioCalculadora.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.DesafioConversao.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.TipoStringEquals.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.exercicios.exercicio1.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.exercicios.exercicio2.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.exercicios.exercicio3.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.exercicios.exercicio4.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.exercicios.exercicio5.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.fundamentos.exercicios.exercicio6.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.operadores.Aritmeticos.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.operadores.Atribuicao.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.operadores.DesafioAritmeticos.main()].executor": "Run",
