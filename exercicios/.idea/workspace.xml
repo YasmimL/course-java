@@ -5,32 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e21bb7bd-7705-44e0-8fb1-f0da39ebc31c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/BreakRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/ContinueRotulado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/DesafioDiaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/DesafioFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/DesafioIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/DesafioWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/For3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/If.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/SwitchComBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/SwitchSemBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/WhileDeterminado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/WhileIndeterminado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/Exercicio1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/Exercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/Exercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/Exercicio5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/curso/java/fundamentos/exercicios/Exercicio6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +64,14 @@
     "Gradle.exercicios [:curso.java.controle.SwitchSemBreak.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.controle.WhileDeterminado.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.controle.WhileIndeterminado.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio1.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio2.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio3.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio4.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio5.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio6.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio7.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.controle.exercicios.Exercicio8.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.AreaCircunferencia.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.ConversaoNumeroString.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.fundamentos.ConversaoStringNumero.main()].executor": "Run",
