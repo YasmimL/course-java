@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e21bb7bd-7705-44e0-8fb1-f0da39ebc31c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/controle/exercicios/Exercicio8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/AreaCirc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/AreaCircTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/DataTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/PrimeiroTrauma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/ProdutoTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/ValorNulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/ValorVsReferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/desafio/Comida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/desafio/Jantar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curso/java/classe/desafio/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +52,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.exercicios [:curso.java.classe.AreaCircTeste.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.classe.DataTeste.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.classe.PrimeiroTrauma.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.classe.ProdutoTeste.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.classe.ValorNulo.main()].executor": "Run",
+    "Gradle.exercicios [:curso.java.classe.ValorVsReferencia.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.controle.Break.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.controle.Continue.main()].executor": "Run",
     "Gradle.exercicios [:curso.java.controle.DesafioDiaSemana.main()].executor": "Run",
